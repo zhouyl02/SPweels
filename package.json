@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/zhouyl02/SPweels/issues"
   },
-  "homepage": "https://github.com/zhouyl02/SPweels#readme"
+  "homepage": "https://github.com/zhouyl02/SPweels#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
 }
